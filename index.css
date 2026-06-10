@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;800;900&family=DM+Sans:wght@300;400;500&family=Bebas+Neue&display=swap');
+
+*, *::before, *::after { margin:0; padding:0; box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+html, body, #root { height:100%; background:#060608; color:#f0ece3; }
+body { font-family:'DM Sans',sans-serif; font-size:15px; overflow:hidden; }
+::-webkit-scrollbar { width:3px; } ::-webkit-scrollbar-thumb { background:#c9a84c; }
+input, button, textarea { font-family:'DM Sans',sans-serif; }
+button { cursor:pointer; border:none; outline:none; }
+input, textarea { outline:none; }
+a { text-decoration:none; color:inherit; }
